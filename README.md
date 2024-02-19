@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 💫 About Me:
-<br>Enthusiastic Frontend Developer & UI Designer adept in Java and Python. <br>Dedicated to crafting captivating user experiences through innovative design<br> and proficient coding skills. Ready to elevate your web projects.
+<br>Enthusiastic Frontend Developer & UI Designer adept in Java and Python.Dedicated to crafting captivating user experiences through innovative design and proficient coding skills. Ready to elevate your web projects.
 
 
 <h3 align="left">Connect with me:</h3>
